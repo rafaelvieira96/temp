@@ -1,0 +1,61 @@
+## mongohsots
+
+## AWS 
+
+10.250.200.237 staging-hubble-mongodb-0.platform
+10.250.186.202 staging-hubble-mongodb-1.platform
+10.250.162.251 staging-hubble-mongodb-2.platform
+
+10.250.216.166 production-hubble-mongodb-4.platform
+10.250.213.189 production-hubble-mongodb-5.platform
+10.250.192.62  production-hubble-arbiter-5.platform
+
+10.250.200.115 production-grimoire-mongodb-0.platform
+10.250.212.244 production-grimoire-mongodb-1.platform
+10.250.215.137 production-grimoire-mongodb-2.platform
+
+10.250.193.155 production-nexus-mongodb-0.platform
+10.250.214.113 production-nexus-mongodb-1.platform
+10.250.210.23  production-nexus-mongodb-2.platform
+
+10.250.196.210 production-realtor-mongodb-0.platform
+10.250.198.110 production-realtor-mongodb-1.platform
+10.250.195.41  production-realtor-mongodb-2.platform
+
+10.250.218.116 production-strategist-mongodb-0.platform
+10.250.208.29  production-strategist-mongodb-1.platform
+10.250.219.237 production-strategist-mongodb-2.platform
+
+10.250.211.241 production-yellowpages-mongodb-0.platform
+10.250.205.30  production-yellowpages-mongodb-1.platform
+10.250.209.21  production-yellowpages-mongodb-2.platform
+
+## OCI
+
+10.245.12.135 oci-production-grimoire-mongodb-1.platform
+10.245.23.117 oci-production-grimoire-mongodb-2.platform
+10.245.10.191 oci-production-grimoire-mongodb-arbiter.platform
+
+10.245.9.20   oci-production-hubble-mongodb-1.platform
+10.245.20.132 oci-production-hubble-mongodb-2.platform
+10.245.12.245 oci-production-hubble-mongodb-arbiter.platform
+ 
+10.245.8.194  oci-production-nexus-mongodb-1.platform
+10.245.22.110 oci-production-nexus-mongodb-2.platform
+10.245.14.163 oci-production-nexus-mongodb-arbiter.platform
+
+10.245.13.177 oci-production-realtor-mongodb-1.platform
+10.245.17.158 oci-production-realtor-mongodb-2.platform
+10.245.13.158 oci-production-realtor-mongodb-arbiter.platform
+
+10.245.9.119  oci-production-strategist-mongodb-1.platform
+10.245.18.245 oci-production-strategist-mongodb-2.platform
+10.245.10.212 oci-production-strategist-mongodb-arbiter.platform
+
+10.245.10.44  oci-production-yellowpages-mongodb-1.platform
+10.245.16.131 oci-production-yellowpages-mongodb-2.platform
+10.245.12.33  oci-production-yellowpages-mongodb-arbiter.platform
+
+10.245.10.39  oci-qa-hubble-mongodb-1.platform
+10.245.19.121 oci-qa-hubble-mongodb-2.platform
+10.245.8.42   oci-qa-hubble-mongodb-arbiter.platform
